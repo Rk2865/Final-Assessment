@@ -38,6 +38,7 @@ The dashboard (`/dashboard`) brings all components together:
    ```
 3. **Open your browser:**
    [http://localhost:3000/dashboard](http://localhost:3000/dashboard)
+   https://final-assessment-gvhj.vercel.app/dashboard
 
 ## 🛠️ How It Works
 
